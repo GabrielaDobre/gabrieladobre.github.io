@@ -15,11 +15,11 @@ El buscador nos devolverá las coincidencias que encuentre según los parámetro
 
 #Ejemplo de búsquedas:
 
-1. En este caso, podemos ver todos los artículos, ya que sólo hemos filtrado por sección:
+1. En este caso, podemos ver todos los países, ya que sólo hemos filtrado por sección:
    
 ![Captura de pantalla 2025-02-19 120413](https://github.com/user-attachments/assets/cc578e46-61e1-4e0c-9765-620a4c477fc6)
 
-2. En este segundo ejemplo, hemos utilizado ambos filtros, tanto por país como sección:
+2. En este segundo ejemplo, hemos utilizado ambos filtros, tanto por país como por sección:
    
 ![Captura de pantalla 2025-02-19 121317](https://github.com/user-attachments/assets/87277f8b-bae3-4b9c-a5ba-163dd0247ee4)
 ![Captura de pantalla 2025-02-19 121413](https://github.com/user-attachments/assets/c5e9ae31-c7b5-48a2-b4e1-896c1dae478b)
