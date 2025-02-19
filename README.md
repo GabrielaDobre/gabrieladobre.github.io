@@ -3,6 +3,7 @@
 -APLICACIÓN CONSULTA-
 
 ¿Para qué sirve esta aplicación?
+
 A partir de una Base de Datos SQL, que almacena artículos según el país de origen, precio y fecha de fabricación, podemos consultar dichos artículos tanto por sección, como por país de origen.
 El buscador nos devolverá las coincidencias que encuentre según los parámetros introducidos. Por ejemplo, deseo saber qué artículos hay en China en la sección de cerámica.
 
@@ -26,6 +27,7 @@ El buscador nos devolverá las coincidencias que encuentre según los parámetro
 
 ¿Cómo se ha creado esta aplicación?
 
+·Consta de dos clases, una de ellas es la main class -AplicacionConsulta- y la clase en la que se desarrollan todos los métodos -MarcoAplicacionConsulta-.
 · Esta aplicación está creada con Java 8 en entorno de desarrollo Eclipse. He utilizado Javax Swing para crear los Panels y los Frames, así como jdbc para la conexión con la BBDD. Se han creado dos menús desplegables, un text field y un botón (llamado Consulta, el que nos devuelve los resultados de la búsqueda).
 · Para la creación de la Base de Datos, he utilizado MySQL Workbench:
 
@@ -34,4 +36,4 @@ El buscador nos devolverá las coincidencias que encuentre según los parámetro
 · Para realizar la conexión de Eclipse con la Base de datos, en local host, he utilizado Xampp Control Panel y he alojado la Base de Datos en phpMyAdmin.
 
 
-
+En este mismo proyecto pueden verse ambas clases con su respectico código.
