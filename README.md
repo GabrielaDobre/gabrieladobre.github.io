@@ -25,6 +25,7 @@ El buscador nos devolverá las coincidencias que encuentre según los parámetro
 
 
 ¿Cómo se ha creado esta aplicación?
+
 · Esta aplicación está creada con Java 8 en entorno de desarrollo Eclipse. He utilizado Javax Swing para crear los Panels y los Frames, así como jdbc para la conexión con la BBDD. Se han creado dos menús desplegables, un text field y un botón (llamado Consulta, el que nos devuelve los resultados de la búsqueda).
 · Para la creación de la Base de Datos, he utilizado MySQL Workbench:
 
