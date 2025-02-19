@@ -36,4 +36,4 @@ El buscador nos devolverá las coincidencias que encuentre según los parámetro
 · Para realizar la conexión de Eclipse con la Base de datos, en local host, he utilizado Xampp Control Panel y he alojado la Base de Datos en phpMyAdmin.
 
 
-En este mismo proyecto pueden verse ambas clases con su respectico código.
+En este mismo proyecto pueden verse ambas clases con su respectivo código.
