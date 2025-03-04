@@ -28,7 +28,9 @@ El buscador nos devolverá las coincidencias que encuentre según los parámetro
 ¿Cómo se ha creado esta aplicación?
 
 ·Consta de dos clases, una de ellas es la main class -AplicacionConsulta- y la clase en la que se desarrollan todos los métodos -MarcoAplicacionConsulta-.
+
 · Esta aplicación está creada con Java 8 en entorno de desarrollo Eclipse. He utilizado Javax Swing para crear los Panels y los Frames, así como jdbc para la conexión con la BBDD. Se han creado dos menús desplegables, un text field y un botón (llamado Consulta, el que nos devuelve los resultados de la búsqueda).
+
 · Para la creación de la Base de Datos, he utilizado MySQL Workbench:
 
 ![Captura de pantalla 2025-02-19 121940](https://github.com/user-attachments/assets/3672479b-215e-4822-b3aa-be93c335e1b6)
